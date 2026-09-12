@@ -1,0 +1,6 @@
+[submodule "microservices/comments-service"]
+	path = microservices/comments-service
+	url = git@github.com:fjs4code/ems-comments-service.git
+[submodule "microservices/moderation-service"]
+	path = microservices/moderation-service
+	url = git@github.com:fjs4code/ems-moderation-service.git
